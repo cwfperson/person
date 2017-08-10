@@ -2,7 +2,7 @@
     /*banner开始*/
     section.banner{
         width: 1170px;
-        height:611px;
+        /*height:611px;*/
         margin: 0 auto;
         background-color: #231F20;
         margin-bottom:30px;
